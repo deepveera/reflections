@@ -1,0 +1,11 @@
+What happens when you initialize a repository? Why do you need to do it?
+ 	creates a .git folder/repository for storing change and meta data
+ 	it will create objects for version ctrl 
+ 	it will start creating timed instances of codes
+
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+ WD holds all the files whereas stgin area hold files only tat needs to be commited.
+
+in a large project un necesary commit of files are avoided
