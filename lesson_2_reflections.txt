@@ -9,3 +9,6 @@ How is the staging area different from the working directory and the repository?
  WD holds all the files whereas stgin area hold files only tat needs to be commited.
 
 in a large project un necesary commit of files are avoided
+
+How can you use the staging area to make sure you have one commit per logical change?
+  Files related to particular change can be staged together, thus tracking bugs easy
