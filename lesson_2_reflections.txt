@@ -12,3 +12,6 @@ in a large project un necesary commit of files are avoided
 
 How can you use the staging area to make sure you have one commit per logical change?
   Files related to particular change can be staged together, thus tracking bugs easy
+
+  How do the diagrams help you visualize the branch structure?
+   non reachable commits, 
